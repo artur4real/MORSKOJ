@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\bin\Debug\MORSKOJ_BOJ.exe.config
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\bin\Debug\MORSKOJ_BOJ.exe
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\bin\Debug\MORSKOJ_BOJ.pdb
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.Form1.resources
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.Properties.Resources.resources
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.csproj.GenerateResource.cache
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.exe
+C:\Users\student\Desktop\lavrentev\MORSKOJ_BOJ\MORSKOJ_BOJ\obj\Debug\MORSKOJ_BOJ.pdb
